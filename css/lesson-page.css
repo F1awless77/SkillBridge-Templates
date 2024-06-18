@@ -1,0 +1,150 @@
+.custom-header {
+    position: relative;
+    background-color: #3E4244;
+    width: 100%;
+    height: 70px;
+    border-bottom: #505050;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+}
+
+.custom-header-svg {
+    margin-left: 80px;
+}
+
+.custom-header-course-name {
+    font-size: 18px;
+    color: white;
+    margin-left: 25px;
+    border-left: 1px solid #777777;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    font-weight: 300;
+}
+
+.video-container-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: #3E4244;
+    height: 550px;
+}
+
+.video-container video {
+    min-width: 916px;
+    height: 550px;
+    position: static;
+}
+
+.video-container {
+    background-color: white;
+    position: static;
+}
+
+.course-navbar {
+    height: 56px;
+    width: 1076px;
+    margin: 0 auto;
+    border-bottom: 1px solid #C4C4C4;
+    display: flex;
+}
+
+.course-navbar-btn {
+    background: none;
+    border: none;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: 16px;
+    border-bottom: 5px solid black;
+    padding-bottom: 14px;
+    cursor: pointer;
+}
+
+.btn-active {
+    color: black;
+}
+
+.btn-inactive {
+    color: #777777;
+    border: none;
+    margin-left: 50px;
+}
+
+.course-outline {
+    width: 680px;
+    margin: 75px auto;
+    border-bottom: 1px solid #D2D2D2;
+}
+
+.section {
+    /* margin: 75px 0; */
+    position: relative;
+    margin: 0;
+}
+
+.section-header {
+    background: #f8f8f8;
+    padding: 0 25px;
+    border-top: 1px solid #D2D2D2;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    margin: 0;
+}
+
+.section-header-title {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 2px;
+}
+
+.section-header-time {
+    font-size: 10px;
+    color: #777777;
+    margin-top: 5px;
+}
+
+.section-header .toggle-icon {
+    font-size: 12px;
+    color: #888;
+}
+
+.section-content {
+    border-top: none;
+    background: white;
+}
+
+.lesson {
+    display: flex;
+    height: 60px;
+    background-color: #FDFDFD
+}
+
+.lesson input[type="checkbox"] {
+    margin-right: 10px;
+    height: 15px;
+    width: 15px;
+    border: 1px solid black;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.lesson label {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.lesson-time {
+    font-size: 10px;
+    color: #777777;
+    margin-top: 5px;
+}

@@ -1,0 +1,34 @@
+<svg width="60" height="12" viewBox="0 0 60 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_170_362)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6.00019 1.72275L7.06256 4.99237H10.5004L7.71919 7.01306L8.78156 10.2827L6.00019 8.262L3.219 10.2827L4.28137 7.01306L1.5 4.99237H4.93781L6.00019 1.72275Z" fill="black"/>
+</g>
+<g clip-path="url(#clip1_170_362)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M18.0002 1.72275L19.0626 4.99237H22.5004L19.7192 7.01306L20.7816 10.2827L18.0002 8.262L15.219 10.2827L16.2814 7.01306L13.5 4.99237H16.9378L18.0002 1.72275Z" fill="black"/>
+</g>
+<g clip-path="url(#clip2_170_362)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.0002 1.72275L31.0626 4.99237H34.5004L31.7192 7.01306L32.7816 10.2827L30.0002 8.262L27.219 10.2827L28.2814 7.01306L25.5 4.99237H28.9378L30.0002 1.72275Z" fill="black"/>
+</g>
+<g clip-path="url(#clip3_170_362)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.0002 1.72275L43.0626 4.99237H46.5004L43.7192 7.01306L44.7816 10.2827L42.0002 8.262L39.219 10.2827L40.2814 7.01306L37.5 4.99237H40.9378L42.0002 1.72275Z" fill="black"/>
+</g>
+<g clip-path="url(#clip4_170_362)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M54.0002 1.72275L55.0626 4.99237H58.5004L55.7192 7.01306L56.7816 10.2827L54.0002 8.262L51.219 10.2827L52.2814 7.01306L49.5 4.99237H52.9378L54.0002 1.72275Z" fill="black"/>
+</g>
+<defs>
+<clipPath id="clip0_170_362">
+<rect width="12" height="12" fill="white"/>
+</clipPath>
+<clipPath id="clip1_170_362">
+<rect width="12" height="12" fill="white" transform="translate(12)"/>
+</clipPath>
+<clipPath id="clip2_170_362">
+<rect width="12" height="12" fill="white" transform="translate(24)"/>
+</clipPath>
+<clipPath id="clip3_170_362">
+<rect width="12" height="12" fill="white" transform="translate(36)"/>
+</clipPath>
+<clipPath id="clip4_170_362">
+<rect width="12" height="12" fill="white" transform="translate(48)"/>
+</clipPath>
+</defs>
+</svg>

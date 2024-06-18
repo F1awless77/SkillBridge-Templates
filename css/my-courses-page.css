@@ -1,0 +1,86 @@
+.main-first-section-learning-banner {
+    background-color: #333333;
+    padding: 52px 231px 13px 231px;
+}
+
+.main-first-section-learning-banner-title {
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.main-first-section-learning-banner-tabs {
+    margin-top: 52px;
+    padding: 0;
+    width: 715px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-first-section-learning-banner-hyperlink {
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.main-first-section-learning-banner-hyperlink-active {
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    text-decoration: underline solid #ECECEC;
+    text-decoration-thickness: 9px;
+    text-underline-offset: 10px;
+}
+
+.main-second-section-courses {
+    padding: 50px 0 100px 0;
+    width: 904px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.main-second-section-courses-card {
+    width: auto;
+    height: auto;
+}
+
+.main-second-section-courses-card-image {
+    width: 250px;
+    height: 150px;
+    border: solid 1px black;
+}
+
+.main-second-section-courses-card-title {
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.main-second-section-courses-card-author {
+    font-size: 12px;
+    color: #777777;
+    margin-top: 5px;
+}
+
+.main-second-section-courses-card-underline {
+    width: 250px;
+    margin-top: 15px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.main-second-section-courses-card-btn {
+    border: 1px solid black;
+    background: none;
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 23px;
+    margin-top: 15px;
+}

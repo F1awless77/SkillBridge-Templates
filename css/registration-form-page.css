@@ -1,0 +1,93 @@
+.main-first-section {
+    padding: 75px 0 110px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-first-section-title {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.main-first-section-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-first-section-form-input {
+    max-width: 500px;
+    height: 85px;
+    border: 1px solid black;
+    background: none;
+    padding-left: 30px;
+    margin-top: 20px;
+}
+
+.main-first-section-form-input::placeholder {
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.main-first-section-form-input:focus {
+    outline: none;
+}
+
+.main-first-section-form-forgotpass {
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
+}
+
+.main-first-section-form-btn {
+    background-color: black;
+    border: none;
+    width: 500px;
+    height: 85px;
+    color: white;
+    font-size: 26px;
+    font-weight: 500;
+    margin-top: 29px;
+}
+
+.main-first-section-form hr {
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 20px;
+}
+
+.main-first-section-form-hyperlink {
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.main-first-section-form-hyperlink a {
+    color: black;
+    font-weight: 550;
+    text-decoration: none;
+}
+
+.main-first-section-form-checkbox-field {
+    display: flex;
+    align-items: center;
+    margin-top: 29px;
+}
+
+.main-first-section-form-checkbox {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -o-appearance: none;
+    outline: 3px solid black;
+    height: 22px;
+    width: 22px;
+    margin-left: 3px;
+}
+
+.main-first-section-form-checkbox-label {
+    font-size: 14px;
+    margin-left: 13px;
+}

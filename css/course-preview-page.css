@@ -1,0 +1,369 @@
+.course-info {
+    background-color: #3E4244;
+    padding: 50px 75px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.course-theme {
+    color: #8599FF;
+    background: none;
+    border: none;
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.course-title {
+    width: 675px;
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    margin-top: 25px;
+}
+
+.course-subtitle {
+    font-size: 18px;
+    font-weight: 600;
+    width: 725px;
+    color: white;
+    margin-top: 25px;
+}
+
+.course-features-desc {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.course-feature {
+    font-size: 17px;
+    padding: 6px 28px;
+    background-color: #FFF856;
+    border: none;
+}
+
+.course-rating {
+    font-size: 16px;
+    color: #FE611D;
+    margin: 0 5px 0 10px;
+}
+
+.course-author {
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+.course-author a {
+    color: #8599FF;
+    text-decoration: none;
+}
+
+.course-language {
+    margin-top: 25px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.course-desc {
+    padding: 50px 75px 0 75px;
+}
+
+.course-whatwill {
+    padding: 25px;
+    border: 1px solid #939191;
+    display: inline-block;
+    max-width: 762px;
+}
+
+.course-whatwill-title {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.course-whatwill-point-container {
+    display: flex;
+}
+
+.course-whatwill-li {
+    max-width: 349px;
+    margin-top: 25px;
+    font-size: 16px;
+}
+
+.container-2 {
+    margin-left: 10px;
+    max-width: 326px;
+}
+
+.course-requirements {
+    margin-left: 75px;
+    margin-top: 50px;
+}
+
+.course-requirements-title {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.course-requirements-li {
+    line-height: 28px;
+    font-size: 14px;
+}
+
+.course-requirements-ul {
+    margin-top: 25px;
+}
+
+.more-courses-title {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.more-courses {
+    margin-left: 75px;
+    width: 747px;
+    margin-top: 50px;
+}
+
+.more-courses-title-span {
+    color: #9600FF;
+}
+
+.more-courses-item-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.more-courses-item {
+    width: 235px;
+}
+
+.more-courses-item-img {
+    border: 1px solid black;
+    width: 235px;
+    height: 130px;
+}
+
+.more-courses-item-title {
+    font-size: 18px;
+    font-weight: 650;
+    margin-top: 10px;
+    max-width: 235px;
+}
+
+.more-courses-item-author, .more-courses-item-info {
+    text-decoration: none;
+    color: #777777;
+    font-size: 11px;
+    margin-top: 5px;
+    font-weight: 500;
+}
+
+.more-courses-item-rating {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.more-courses-item-rating-num {
+    font-size: 12px;
+    font-weight: 700;
+    margin-right: 5px;
+}
+
+.more-courses-item-price {
+    display: flex;
+    margin-top: 10px;
+}
+
+.more-courses-item-price-real {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.more-courses-item-price-notreal {
+    font-size: 14px;
+    color: #777777;
+    margin-left: 10px;
+    text-decoration: line-through;
+}
+
+.more-courses-hr {
+    margin-top: 50px;
+    border: none;
+    border-bottom: 1px solid #B8B8B8;
+    width: 747px;
+    margin-left: 75px;
+}
+
+.report-abuse-btn {
+    margin: 25px 0 75px 75px;
+    width: 747px;
+    font-weight: 600;
+    font-size: 20px;
+    border: 1px solid black;
+    background: none;
+    padding: 13px 0;
+    cursor: pointer;
+}
+
+.description-container {
+    margin: 50px 0 0 75px;
+}
+
+.description {
+    max-width: 705px;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.description p {
+    margin-top: 10px;
+}
+
+.hidden-content {
+    display: none;
+}
+
+.description-title {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.description-btn {
+    background: none;
+    border: none;
+    padding: 0;
+    margin-top: 15px;
+    font-size: 16px;
+    color: #9600FF;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.container {
+    display: block;
+    position: absolute;
+    top: 140px;
+}
+
+/* Sticky Sidebar Styles */
+.sidebar-container {
+    position: sticky;
+    max-height: 100vh;
+    overflow-y: 0;
+    overflow-x: none;
+    margin-left: 894px;
+}
+
+/* Sidebar content card styles */
+.sidebar {
+    background-color: #ffffff;
+    padding: 25px 25px 50px 25px;
+    width: 394px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
+}
+
+.btn-1 {
+    background-color: #A436F1;
+    color: white;
+    border: none;
+    display: block;
+    width: 100%;
+    margin-top: 25px;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.btn-2 {
+    background: none;
+    color: black;
+    border: 1px solid black;
+    display: block;
+    width: 100%;
+    margin-top: 25px;
+    padding: 15px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.sidebar-img {
+    width: 100%;
+    height: 238px;
+    background-color: #033F5C;
+    display: block;
+}
+
+.sidebar-price {
+    display: flex;
+    align-items: center;
+}
+
+.sidebar-price-og {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.sidebar-price-old {
+    color: #777777;
+    font-size: 20px;
+    text-decoration: line-through;
+    margin-left: 10px;
+}
+
+.sidebar-price-discount {
+    font-size: 16px;
+    color: #777777;
+    margin-left: 10px;
+}
+
+.sidebar-guarantee {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.sidebar-includes {
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+.sidebar ul {
+    margin-top: 15px;
+}
+
+.sidebar li {
+    font-size: 12px;
+    line-height: 18px;
+    padding: 0;
+}
+
+.sidebar-btn-container {
+    margin-top: 20px;
+    display: flex;
+}
+
+.sidebar-btn {
+    background: none;
+    border: none;
+    padding: none;
+    font-size: 12px;
+    cursor: pointer;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.btn-3 {
+    margin-left: 50px;
+}
